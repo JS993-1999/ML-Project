@@ -1,6 +1,6 @@
 # ML Final Semester Project
 
-##PROBLEM DEFINITION & DEFINITION
+## PROBLEM DEFINITION & DEFINITION
 Over the past few years, business owners and retailers, big or small, have started taking their shops online to increase their reach, promote their brand and increase 
 sales that cover a wide range of customers. For these businesses, it is essential to identify the customer base and give them enough rewards and incentives to encourage their online purchase. The primary objective of this project is to identify patterns of the customers that browse a website and make a successful purchase. We intend to achieve this by using various Machine learning techniques and selecting the best classification algorithms that successfully classify the revenue promoting customers from other users using the Online Shoppers’ Purchasing Intention dataset.
 
